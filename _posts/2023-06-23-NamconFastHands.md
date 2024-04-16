@@ -23,7 +23,7 @@ Clicking on the button quickly opens and closes a pop up window.
 
 Investigating the html, you can see that the button redirects to /capture_the_flag.html .
 
-![Fast Hands HTML](FastHandsInspect.png)
+![Fast Hands HTML](FastHandsPageInspect.png)
 
 Going there be editing the browser’s url, brings up a green flag button.
 
