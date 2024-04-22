@@ -24,7 +24,7 @@
   url:  'https://www.linkedin.com/in/charles-michael-it/'                  # Fill with your Linkedin homepage
 
 - type: ctftime
-  icon: 'fas fa-clock"
+  icon: 'fas fa-clock'
   url: "https://ctftime.org/team/235392"
 #
 # - type: stack-overflow
